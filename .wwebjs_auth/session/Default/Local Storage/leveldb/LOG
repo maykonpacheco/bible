@@ -1,0 +1,6 @@
+2022/12/16-13:52:12.576 1cdba Reusing MANIFEST /home/maykonpacheco/develop/whatsapp/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/12/16-13:52:12.577 1cdba Recovering log #7
+2022/12/16-13:52:12.577 1cdba Reusing old log /home/maykonpacheco/develop/whatsapp/.wwebjs_auth/session/Default/Local Storage/leveldb/000007.log 
+2022/12/16-14:45:12.947 1e06a Level-0 table #11: started
+2022/12/16-14:45:12.953 1e06a Level-0 table #11: 25094 bytes OK
+2022/12/16-14:45:12.955 1e06a Delete type=0 #7

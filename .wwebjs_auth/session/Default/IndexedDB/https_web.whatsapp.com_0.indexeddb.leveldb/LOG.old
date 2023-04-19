@@ -1,0 +1,13 @@
+2022/12/16-13:51:47.657 1cce1 Reusing MANIFEST /home/maykonpacheco/develop/whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/16-13:51:47.658 1cce1 Recovering log #2354
+2022/12/16-13:51:47.685 1cce1 Reusing old log /home/maykonpacheco/develop/whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002354.log 
+2022/12/16-13:52:04.059 1cd1e Level-0 table #2390: started
+2022/12/16-13:52:04.168 1cd1e Level-0 table #2390: 1125869 bytes OK
+2022/12/16-13:52:04.291 1cd1e Delete type=0 #2354
+2022/12/16-13:52:04.467 1ccf4 Compacting 1@0 + 0@1 files
+2022/12/16-13:52:04.563 1ccf4 Generated table #2391@0: 14700 keys, 511202 bytes
+2022/12/16-13:52:04.638 1ccf4 Generated table #2392@0: 291 keys, 18216 bytes
+2022/12/16-13:52:04.713 1ccf4 Generated table #2393@0: 222 keys, 5724 bytes
+2022/12/16-13:52:04.713 1ccf4 Compacted 1@0 + 0@1 files => 535142 bytes
+2022/12/16-13:52:04.827 1ccf4 compacted to: files[ 0 3 37 0 0 0 0 ]
+2022/12/16-13:52:04.827 1ccf4 Delete type=2 #2390
