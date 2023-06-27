@@ -1,27 +1,3 @@
-2023/04/18-22:51:16.487 2653 Reusing MANIFEST /home/maykonpacheco/Downloads/bible/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/18-22:51:16.488 2653 Recovering log #2710
-2023/04/18-22:51:16.504 2653 Reusing old log /home/maykonpacheco/Downloads/bible/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002710.log 
-2023/04/18-22:51:16.504 2653 Delete type=2 #2709
-2023/04/18-22:51:17.278 267a Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/04/18-22:51:17.292 267a Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/04/18-22:51:17.298 2657 Level-0 table #2715: started
-2023/04/18-22:51:17.308 2657 Level-0 table #2715: 99224 bytes OK
-2023/04/18-22:51:17.317 2657 Delete type=0 #2710
-2023/04/18-22:51:17.317 2657 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/04/18-22:51:17.350 2651 Level-0 table #2717: started
-2023/04/18-22:51:17.360 2651 Level-0 table #2717: 16251 bytes OK
-2023/04/18-22:51:17.389 2651 Delete type=0 #2714
-2023/04/18-22:51:17.389 2651 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 7121638 : 0
-2023/04/18-22:51:17.389 2651 Compacting 1@0 + 1@1 files
-2023/04/18-22:51:17.400 2651 Generated table #2718@0: 2108 keys, 18237 bytes
-2023/04/18-22:51:17.400 2651 Compacted 1@0 + 1@1 files => 18237 bytes
-2023/04/18-22:51:17.415 2651 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/04/18-22:51:17.416 2651 Delete type=2 #2717
-2023/04/18-22:51:17.417 2651 Manual compaction at level-0 from '\x00\x15\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 7121638 : 0 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/04/18-22:51:17.417 2651 Manual compaction at level-1 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\xc8\x11\x00w\x00o\x00r\x00k\x00e\x00r\x00_\x00w\x00a\x00m\x00_\x00e\x00v\x00e\x00n\x00t\x00s' @ 7121076 : 0
-2023/04/18-22:51:17.418 2651 Compacting 1@1 + 1@2 files
-2023/04/18-22:51:17.429 2651 Generated table #2719@1: 63 keys, 1266 bytes
-2023/04/18-22:51:17.429 2651 Compacted 1@1 + 1@2 files => 1266 bytes
-2023/04/18-22:51:17.444 2651 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/04/18-22:51:17.444 2651 Delete type=2 #2718
-2023/04/18-22:51:17.444 2651 Manual compaction at level-1 from '\x00\x15\x00\x00\xc8\x11\x00w\x00o\x00r\x00k\x00e\x00r\x00_\x00w\x00a\x00m\x00_\x00e\x00v\x00e\x00n\x00t\x00s' @ 7121076 : 0 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/27-00:24:11.265 3b9e Reusing MANIFEST /home/maykonpacheco/develop/bible/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/27-00:24:11.265 3b9e Recovering log #6
+2023/06/27-00:24:11.309 3b9e Reusing old log /home/maykonpacheco/develop/bible/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
